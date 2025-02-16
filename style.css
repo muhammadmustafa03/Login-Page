@@ -1,0 +1,22 @@
+.divider {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .line {
+    flex: 1;
+    height: 1px;
+    background-color: #ccc;
+  }
+  
+  .or-text {
+    margin: 0 10px;
+    font-weight: bold;
+    color: #666;
+  }
+
+  
+.twit-button{
+    background-color: #1DA1F2;
+}
